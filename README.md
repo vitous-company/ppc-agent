@@ -66,5 +66,13 @@ Found it useful, or found it wrong? Open an issue — the second is more useful 
 
 ## Licence
 
-[CC BY 4.0](LICENSE). Take it, change it, pass it on — just keep the attribution line so the next
-person can find the original.
+© 2026 Ladislav Vitouš. Licensed under [CC BY 4.0](LICENSE).
+
+Take it, change it, pass it on — commercially too. The one condition is credit. If you adapt it,
+say so. Something like:
+
+> Based on [PPC Agent](https://github.com/vitous-company/ppc-agent) by
+> [Ladislav Vitouš](https://vitousladislav.cz), CC BY 4.0. Modified.
+
+Keeping the attribution line inside `AGENTS.md` itself satisfies this and — more usefully — means
+the next person who receives a pasted copy can still find the current version.
