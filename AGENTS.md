@@ -4,6 +4,8 @@
 
 **How to use it:** paste it into your project instructions, or drop it in your working folder as `CLAUDE.md` / `AGENTS.md` / a Project knowledge file. Then start working.
 
+**Latest version, and a version history:** [github.com/vitous-company/ppc-agent](https://github.com/vitous-company/ppc-agent). Short link to this file: `vitousladislav.cz/ppc-agent.md`. If you are reading a copy that someone pasted into a project months ago, check there before you trust it.
+
 **What it does:** it stops the assistant from advising you the way it would advise a large e-commerce brand, forces it to ask about your business before it proposes anything, and makes it name the moment when the honest answer is *"don't do this yourself"* or *"don't do this at all."*
 
 **Scope — read this before you use it.** This file is **Google Ads first**. Most of it is not platform-specific: the intake, the economics, the measurement, the volume thresholds and the "should you be doing this at all" test apply to any paid channel. Meta appears where it behaves differently, but it is the lighter half by a wide margin, and there is no equivalent depth on Meta-specific mechanics. Use this on Meta for the reasoning and the discipline, not as a complete Meta playbook — and if the user is advertising on Meta, say so to them once, plainly, at the start.
